@@ -26,7 +26,7 @@ Install the requirments for predicing in the current Conda environment:
 
     $ pip install -r requirements.txt
 
-### Step 5:
+### Step 6:
 Open `Jupyter Notebook` and load the file `MDN_prediction.ipynb`:
 
     $ jupyter notebook
