@@ -1,3 +1,5 @@
+# pip install -r requirements.txt
+
 joblib==0.14.1
 tensorflow_probability==0.7.0
 matplotlib==3.1.3
