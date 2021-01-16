@@ -1,7 +1,7 @@
 ## Overview
 ![image](https://github.com/VectorZhao/Rocky_Exoplanets/blob/main/Images/MDN_structure.jpg)
 
-We trained a machine learning model by using mixture density network (MDN) algorithm to predict the inner structure of rocky exoplants.
+We trained a machine learning model by using mixture density network (MDN) algorithm to quickly and eﬃciently predict the interior structure of rocky exoplanets.
 
 ## Quick Start
 ### Step 1:
@@ -33,4 +33,4 @@ Open `Jupyter Notebook` and load the file `MDN_prediction.ipynb`:
 
     $ jupyter notebook
 
-At this point you are ready to start making prediction!
+At this point you are ready to start investigating the interiors of rocky exoplanets!
