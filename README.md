@@ -11,7 +11,7 @@ We trained a machine learning model by using mixture density network (MDN) algor
 Download [`Anaconda`](https://www.anaconda.com/products/individual#Downloads) and install it on you machine.
 Create a `conda` environment called `Rocky_Exoplanets` and install all the necessary dependencies:
 
-    $ conda create -n Rocky_Exoplanets pip python jupyter tenforflow=1.15
+    $ conda create -n Rocky_Exoplanets pip python jupyter tensorflow=1.15
     
 ### Step 3:
 Activate the `Rocky_Exoplanets` environment:
