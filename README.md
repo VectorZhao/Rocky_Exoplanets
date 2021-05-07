@@ -1,5 +1,5 @@
 ## Overview
-![image](https://github.com/VectorZhao/Rocky_Exoplanets/blob/main/Images/MDN_structure.jpg)
+![image](https://github.com/VectorZhao/Rocky_Exoplanets/blob/main/img/MDN_cartoon.tif)
 
 We trained a machine learning model by using mixture density network (MDN) algorithm to quickly and eﬃciently predict the interior structure of rocky exoplanets with masses between 0.1 and 10 Earth masses.
 
